@@ -1,0 +1,22 @@
+{
+  "name": "mini-project10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-pohahau5/Mini-Project10.git"
+  },
+  "author": "Johnathan Pohahau, Josh Matsumoto, Becka McNally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-pohahau5/Mini-Project10/issues"
+  },
+  "homepage": "https://github.com/j-pohahau5/Mini-Project10#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
